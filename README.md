@@ -1,2 +1,2 @@
 # etude
-Collection of mini baby projects
+Collection of toy projects
